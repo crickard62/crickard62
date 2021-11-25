@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @crickard62
 - 👀 I’m interested in full stack development.
-- 🌱 I’m currently learning Python
+- 🌱 I’m currently learning React
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me - LinkedIn - https://www.linkedin.com/in/the-christopher-rickard
 
